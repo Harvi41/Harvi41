@@ -67,35 +67,6 @@ I'm a **2nd-year Computer Engineering student at BVM (Birla Vishwakarma Mahavidy
 
 ---
 
-## 💼 Featured Projects
-
-### 🏢 [CoreHR — Human Resource Management System](https://github.com/Harvi41)
-> **MERN Stack · RBAC · REST APIs · Vercel**
-
-Production-grade HRMS built from scratch at **Lyrcon Solutions**.
-- Custom backend **Role-Based Access Control (RBAC)** engine with live permission mutations (Admin / HR / Employee)
-- RESTful APIs for end-to-end attendance lifecycle with multi-status validation
-- Real-time leave balance computation synced with persistent React state
-- Deployed on **Vercel** with modular React dashboards
-
----
-
-### 🤖 [AI Interview Management Platform](https://github.com/Harvi41) *(In Progress)*
-> **React · Node.js · MongoDB · OpenAI API**
-
-AI-powered platform for structured interview preparation and candidate management.
-- AI-generated questions based on job role & difficulty
-- Session tracking and performance analytics dashboard
-
----
-
-### 🌐 [Web Squid Proxy Server](https://github.com/Harvi41)
-> **Squid · Linux · Networking**
-
-- Configured a LAN with **20 Linux machines**
-- Set up Squid proxy with web caching and access control policies
-
----
 
 ## 📊 GitHub Stats
 
